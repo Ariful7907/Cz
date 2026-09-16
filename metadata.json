@@ -1,0 +1,7 @@
+{
+  "name": "ConnectZone",
+  "description": "A feature-rich social media platform with interactive home feed, stories, messaging, groups, short videos, referral & rewards system, and admin moderation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
